@@ -17,7 +17,3 @@ Give it a shot for your next standup. You can play games together, collaborate o
 ![Around Games](https://cloud.headwayapp.co/changelogs_images/images/big/000/076/776-e03333019de52dc01cee20a1fa91bb4e628bfea6.jpg)
 ![Around Games](https://cloud.headwayapp.co/changelogs_images/images/big/000/078/464-d3a3b785756e46c0232616fa50cc099f1485fb26.jpg)
 
-## and a lot more
-![Around](https://cloud.headwayapp.co/changelogs_images/images/big/000/079/920-f079606b8b78b6405a90ee9359c2fbd5604ae054.jpg)
-![Around](https://cloud.headwayapp.co/changelogs_images/images/big/000/067/622-f8c84da91ec59afecf3c70a48ddb9f5c1bac9c92.jpg)
-
